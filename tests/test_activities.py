@@ -3,7 +3,6 @@ Tests for GET /activities endpoint.
 Each test follows the AAA (Arrange-Act-Assert) pattern.
 """
 
-import pytest
 from fastapi.testclient import TestClient
 
 
