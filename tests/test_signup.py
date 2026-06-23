@@ -3,7 +3,6 @@ Tests for POST /activities/{activity_name}/signup endpoint.
 Each test follows the AAA (Arrange-Act-Assert) pattern.
 """
 
-import pytest
 from fastapi.testclient import TestClient
 
 
